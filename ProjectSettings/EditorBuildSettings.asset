@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/stonehedge.unity
+    guid: a0486043482d4ad4c81b7ff066e2c843
   m_configObjects: {}
